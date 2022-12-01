@@ -22,4 +22,6 @@ This repo contains diverse computer vision tasks with Keras and Tensorflow.
 
 </div>
 
+<sub>Original Image and Segmented result </sub>
+
 
