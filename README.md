@@ -14,3 +14,12 @@ This repo contains diverse computer vision tasks with Keras and Tensorflow.
  
  
    An exploratory walktrought of Image Segmentation with complex Convolutional models
+   
+   
+<div style = 'display-items:center; display:felex;  margin:60px ;'>
+ <img src='https://github.com/Overlrd/CompViz-Keras/blob/main/Image-Segmentation/cat.png' width = 300px  />
+ <img src='https://github.com/Overlrd/CompViz-Keras/blob/main/Image-Segmentation/cat_mask.png' width = 300px  style="float: right;" />
+
+</div>
+
+
